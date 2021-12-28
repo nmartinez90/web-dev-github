@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 this is another  commit!
 
 and here we go with commit #2!
+=======
+this is again commit!
+
+and here go with commit #2!
+>>>>>>> feature
+
